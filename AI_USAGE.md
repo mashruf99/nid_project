@@ -20,7 +20,7 @@ submission, as required by the project's AI Usage guidelines.
 
 ## 2. Example Prompts Used
 
-Below are representative prompts used during development (paraphrased from the actual
+I've completed Claude AI certification and have knowledge of coding so as per policy I've used AI to refactor my codebase using an iterative loop-engineering approach. I didn't fully dependent on AI rather I choose to rely on my reasoning ability to identify the core problems and used AI to validate my solutions. Below are some of the representative prompts used during development (paraphrased from the actual
 conversation):
 
 - *"AS a senior software engineer what are the edge case I should look after while building image to text extractor system."*
